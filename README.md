@@ -5,7 +5,7 @@ ten most critical API security risks. crAPI is vulnerable by design, but you'll
 be able to safely run it to educate/train yourself.
 
 crAPI is modern, built on top of a microservices architecture. When time has
-come to buy your first car, sign up for an account and start your journey. To
+come to buy your first car, sign up for an account and start your journey. 
 know more about crAPI, please check [crAPI's overview][overview].
 
 ## QuickStart Guide
